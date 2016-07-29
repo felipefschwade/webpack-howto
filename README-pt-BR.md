@@ -6,13 +6,13 @@ Este é um guia de como fazer as "coisas" utilizando o webpack. Este guia inclui
 
 Meu conselho: comece com este guia como se fosse a documentação do webpack, e então apenas utilize a documentação oficial para esclarecimento.
 
-## Prerequisites
+## Pré-requisitos
 
-  * You know browserify, RequireJS or something similar
-  * You see the value in:
-    * Bundle splitting
-    * Async loading
-    * Packaging static assets like images and CSS
+  * Conhecer browserify, RequireJS ou alguma ferramenta similar
+  * Ver o valor de:
+    * Divisão de pacotes
+    * Carregamento Assícrono
+    * Empacotamento de recursos estáticos, como imagens e CSS
 
 ## 1. Why webpack?
 
